@@ -17,7 +17,8 @@ class JsonTest extends AbstractFunctionalTest
         }
 
         return new \Spinzar\Setting\Drivers\Json(
-            new \Illuminate\Filesystem\Filesystem(), $path
+            new \Illuminate\Filesystem\Filesystem(),
+            $path
         );
     }
 
