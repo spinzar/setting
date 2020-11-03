@@ -1,5 +1,5 @@
 # Persistent settings package for Laravel
-
+[![StyleCI](https://github.styleci.io/repos/309598197/shield?branch=main)](https://github.styleci.io/repos/309598197?branch=main)
 
 
 This package allows you to save settings in a more persistent way. You can use the database and/or json file to save your settings. You can also override the Laravel config.
